@@ -24,3 +24,5 @@ Stack used:-
 
 python 3.5.2
 django 2.0.1
+
+csv files from admin interface will be downloaded as stayabode_todo.csv in the app folder.
